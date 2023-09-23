@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Collect domain info and display in a new tab
-// @author       You
+// @author       Robot
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
 // @run-at       context-menu
