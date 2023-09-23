@@ -33,7 +33,8 @@ This UserScript, developed for Tampermonkey, automates the collection of domain 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the non existent [LICENSE.md](LICENSE.md) file for details.
+:)
 
 ## Acknowledgments
 
